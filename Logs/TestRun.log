@@ -1,0 +1,143 @@
+2020-01-16 01:23:58 WARN  LocalWebDriverListener:62 - Creating the Driver!!!
+2020-01-16 01:23:59 INFO  LocalWebDriverListener:46 - getting driver for: chrome
+2020-01-16 01:23:59 INFO  LocalWebDriverListener:47 - device name is: mac
+2020-01-16 01:24:00 INFO  LocalWebDriverListener:60 - Done! Created chrome driver!
+2020-01-16 01:24:03 INFO  Log:12 - Info : Wait for page to load
+2020-01-16 01:24:03 INFO  Log:12 - Info : Maximum wait for - 2
+2020-01-16 01:24:03 INFO  Log:12 - Info : Page Load Status - complete
+2020-01-16 01:24:05 INFO  Log:12 - Element Not found
+2020-01-16 01:24:06 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .btn-solid-primary]
+2020-01-16 01:24:06 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:07 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:10 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:24:10 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:11 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:12 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:14 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:24:14 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:15 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:17 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:24:18 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:19 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:21 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:24:22 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:22 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:23 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:26 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:24:27 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:27 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:30 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:24:30 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:31 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:32 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:34 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:24:34 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:35 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:37 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:24:38 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:39 INFO  Log:12 - Pass : Element Scroll by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:40 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:24:40 INFO  Log:12 - Pass : Element clicked by JS - [[ChromeDriver: chrome on MAC (db5dcdce59cf4b14d01cc3564a5adf7f)] -> css selector: .crl7WW button[class='product-variation']]
+2020-01-16 01:24:41 INFO  LocalWebDriverListener:78 - Renaming test method name from: 'feature' to: 'Tests Chrome browser - feature - chrome v:79.0.3945.117 MAC'
+2020-01-16 01:24:41 WARN  LocalWebDriverListener:62 - Creating the Driver!!!
+2020-01-16 01:24:49 WARN  LocalWebDriverListener:62 - Creating the Driver!!!
+2020-01-16 01:24:49 INFO  LocalWebDriverListener:46 - getting driver for: firefox
+2020-01-16 01:24:49 INFO  LocalWebDriverListener:47 - device name is: mac
+2020-01-16 01:24:53 INFO  LocalWebDriverListener:60 - Done! Created firefox driver!
+2020-01-16 01:24:59 INFO  Log:12 - Info : Wait for page to load
+2020-01-16 01:24:59 INFO  Log:12 - Info : Maximum wait for - 2
+2020-01-16 01:24:59 INFO  Log:12 - Info : Page Load Status - complete
+2020-01-16 01:25:01 INFO  Log:12 - Element Not found
+2020-01-16 01:25:01 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (560591d5-7195-1e4a-be56-f57a376c8f84)] -> css selector: .btn-solid-primary]
+2020-01-16 01:25:02 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (560591d5-7195-1e4a-be56-f57a376c8f84)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:25:03 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (560591d5-7195-1e4a-be56-f57a376c8f84)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:25:06 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (560591d5-7195-1e4a-be56-f57a376c8f84)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:25:10 ERROR Log:17 - Error: Storing item price from first 5 pages
+2020-01-16 01:25:10 INFO  LocalWebDriverListener:78 - Renaming test method name from: 'feature' to: 'Tests Firefox browser - feature - firefox v:72.0.1 MAC'
+2020-01-16 01:25:13 WARN  LocalWebDriverListener:62 - Creating the Driver!!!
+2020-01-16 01:25:32 WARN  LocalWebDriverListener:62 - Creating the Driver!!!
+2020-01-16 01:25:32 INFO  LocalWebDriverListener:46 - getting driver for: firefox
+2020-01-16 01:25:32 INFO  LocalWebDriverListener:47 - device name is: mac
+2020-01-16 01:25:35 INFO  LocalWebDriverListener:60 - Done! Created firefox driver!
+2020-01-16 01:25:37 INFO  Log:12 - Info : Wait for page to load
+2020-01-16 01:25:37 INFO  Log:12 - Info : Maximum wait for - 2
+2020-01-16 01:25:38 INFO  Log:12 - Info : Page Load Status - complete
+2020-01-16 01:25:41 INFO  Log:12 - Element Not found
+2020-01-16 01:25:41 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .btn-solid-primary]
+2020-01-16 01:25:42 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:25:44 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:25:45 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:25:46 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:25:47 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:25:48 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:25:51 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:25:51 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:25:52 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:25:56 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:25:56 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:25:57 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:01 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:26:01 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:02 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:04 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:09 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:26:09 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:10 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:12 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:15 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:26:16 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:17 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:21 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:26:22 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:23 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:27 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:26:28 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:29 INFO  Log:12 - Pass : Element Scroll by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:30 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:31 INFO  Log:12 - Pass : Element clicked by JS - [[FirefoxDriver: firefox on MAC (c6406928-4046-ed47-8205-6928b3f2ca90)] -> css selector: .crl7WW button[class='product-variation']]
+2020-01-16 01:26:31 INFO  LocalWebDriverListener:78 - Renaming test method name from: 'feature' to: 'Tests Firefox browser - feature - firefox v:72.0.1 MAC'
+2020-01-16 01:26:34 WARN  LocalWebDriverListener:62 - Creating the Driver!!!
+2020-01-16 01:26:45 WARN  LocalWebDriverListener:62 - Creating the Driver!!!
+2020-01-16 01:26:45 INFO  LocalWebDriverListener:46 - getting driver for: safari
+2020-01-16 01:26:45 INFO  LocalWebDriverListener:47 - device name is: mac
+2020-01-16 01:26:47 INFO  LocalWebDriverListener:60 - Done! Created safari driver!
+2020-01-16 01:26:48 INFO  Log:12 - Info : Wait for page to load
+2020-01-16 01:26:48 INFO  Log:12 - Info : Maximum wait for - 2
+2020-01-16 01:26:48 INFO  Log:12 - Info : Page Load Status - complete
+2020-01-16 01:26:51 INFO  Log:12 - Element Not found
+2020-01-16 01:26:51 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .btn-solid-primary]
+2020-01-16 01:26:52 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:53 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:53 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:54 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:26:55 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:55 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:57 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:26:57 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:58 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:26:59 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:00 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:27:00 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:00 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:02 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-page-controller .shopee-icon-button--right]
+2020-01-16 01:27:02 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:03 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:05 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:27:06 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:06 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:07 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:08 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:27:08 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:09 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:10 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:11 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:27:11 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:12 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:13 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-page-controller .shopee-icon-button--left]
+2020-01-16 01:27:13 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:14 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:15 INFO  Log:12 - Pass : Element Scroll by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:15 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .shopee-search-item-result__item div span:nth-child(2)._341bF0]
+2020-01-16 01:27:15 INFO  Log:12 - Pass : Element clicked by JS - [[SafariDriver: Safari on MAC (B5CCEF0A-1E72-4C69-909A-81107A343BD2)] -> css selector: .crl7WW button[class='product-variation']]
+2020-01-16 01:27:15 INFO  LocalWebDriverListener:78 - Renaming test method name from: 'feature' to: 'Tests Safari browser - feature - Safari v:13.0.4 MAC'
+2020-01-16 01:27:16 WARN  LocalWebDriverListener:62 - Creating the Driver!!!
