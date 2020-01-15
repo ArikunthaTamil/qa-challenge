@@ -1,6 +1,7 @@
 # qa-challenge
 
-Tech Stack
+Tech Stack: 
+
 Selenium + Maven + TestNG + Cucumber + Java
 
 Supported browsers:
