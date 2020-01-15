@@ -48,7 +48,7 @@ public class StepImplementation {
         }
     }
 
-    @Given("^User already logged in and cart is empty$")
+    @Given("^User already not logged in and cart is empty$")
     public void user_already_logged_in_and_cart_is_empty() throws Throwable {
         if(homePage.user_logged_in()){
             Assert.fail("Fail: User not logged in already");

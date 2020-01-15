@@ -2,7 +2,7 @@ Feature: Order Product from search results
   @Web
   Scenario Outline: Select and Add highest price product within five pages from search results
     Given I'm on shopee home page
-    And User already logged in and cart is empty
+    And User already not logged in and cart is empty
     When I enter search "<Keyword>" and click on search button
     Then I should see the search results header and lists
     And I navigate through first "<Pagination>" pages and store all item price
